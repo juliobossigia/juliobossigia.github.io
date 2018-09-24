@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Julio Bossigia-clone",
-    "currentPage": "index.html",
+    "currentPage": "certificados.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -478,6 +478,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Code IoT - Introdução à internet das coisas",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/certificado-cidades-e-destinos-turisticos-inteligentes-2000x1414.png",
+                "thumb": "@PROJECT_PATH@/assets/images/certificado-cidades-e-destinos-turisticos-inteligentes-2000x1414-800x566.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Seminário Cidades e Destinos Turísticos Inteligentes Belo Horizonte",
                 "active": true
               }
             ]
@@ -589,11 +602,11 @@
           "_name": "content7",
           "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">OPEN CLASS BELO HORIZONTE: O FUTURO DOS NEGÓCIOS, uma prévia que visa orientar empresas e profissionais para o novo mercado empresarial oferecendo metodologia para a preparação e o planejamento do futuro dos negócios.&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/5b802751aa15e-436x161.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r43Kq782ug",
+          "_anchor": "content7-q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-q"
+          "_params": {}
         },
         {
           "_styles": {
