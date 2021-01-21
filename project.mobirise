@@ -97,6 +97,9 @@
               ".form-control": {
                 "font-size": ".85rem"
               }
+            },
+            ".mbr-text, .mbr-section-btn, .form-inline ": {
+              "color": "#ffffff"
             }
           },
           "_name": "header14",
